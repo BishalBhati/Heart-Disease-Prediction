@@ -135,4 +135,4 @@ To enhance usability, the model can be deployed as a web application using **Fla
 - **Advanced predictive analytics** using time-series patient data
 
 ## License
-This project is open-source under the MIT License. Feel free to contribute and improve it.
+This project is Owned by ©Bishal Bhati. Feel free to contribute and Improve it.
